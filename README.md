@@ -16,7 +16,7 @@ yarn add @fefo/todo-app
 
 ## Usage
 
-```tsx
+```javascript
 import React from 'react'
 import { TodoApp, TodoActions } from '@fefo/todo-app'
 
