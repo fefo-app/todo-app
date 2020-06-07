@@ -1,10 +1,10 @@
 {
-  "name": "todo-app",
-  "version": "1.0.6",
+  "name": "@fefo/todo-app",
+  "version": "1.0.7",
   "description": "Todo App as component",
   "author": "ulisesantana",
   "license": "MIT",
-  "repository": "ulisesantana/decoupled-redux",
+  "repository": "ulisesantana/todo-app",
   "main": "dist/index.js",
   "module": "dist/index.modern.js",
   "source": "src/index.tsx",
