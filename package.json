@@ -26,7 +26,8 @@
   "peerDependencies": {
     "classnames": "^2.2.6",
     "react": "^16.0.0",
-    "styled-components": "^5.1.1"
+    "styled-components": "^5.1.1",
+    "styled-icons": "^10.2.1"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^4.2.4",
