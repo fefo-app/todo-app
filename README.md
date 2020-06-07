@@ -7,7 +7,11 @@
 ## Install
 
 ```bash
-npm install --save decoupled-redux
+npm install --save @fefo/todo-app
+```
+
+```bash
+yarn add @fefo/todo-app
 ```
 
 ## Usage
@@ -42,6 +46,9 @@ const App = () => {
 export default App
 
 ```
+
+![demo](docs/todo-app-example.png)
+
 
 ## License
 
